@@ -17,7 +17,7 @@ const DashBoard = (props) => {
 
     return (
         <div className="dashboard-content">     
-         <h1>Net Assets of Them</h1>
+         <h1>Net Assets of Multiple Person</h1>
           <h3>Number Of Person: {persons}</h3>
           <h3>Net Assets: ${personsAsset.toFixed(2)} B.</h3>
         </div>
