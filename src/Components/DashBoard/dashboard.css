@@ -1,0 +1,16 @@
+.cart{
+    margin: 0 2rem;
+}
+.dashboard-content h3{
+    color: rgb(224, 224, 224);
+
+}
+.dashboard-content h1{
+    color: rgb(255, 255, 255);
+
+}
+
+.dashboard-content{
+    background: darkred;
+    padding: 4rem .8rem;
+}

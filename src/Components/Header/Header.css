@@ -1,0 +1,19 @@
+.header{
+    padding: 2rem;
+}
+.header-title h1{
+    font-size: 3rem;
+    color: darkred;
+    text-align: center;
+}
+.header-title h1 span{
+    font-size: 3rem;
+    color: black;
+}
+
+.header-content{
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    color: rgb(124, 121, 121);
+}
